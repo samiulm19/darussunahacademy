@@ -1,0 +1,6 @@
+{
+  "name": "দারুস সুন্নাহ একাডেমি",
+  "description": "দারুস সুন্নাহ একাডেমি - বাংলা-ফার্স্ট পাবলিক ওয়েবসাইট ও পূর্ণাঙ্গ একাডেমি ম্যানেজমেন্ট সিস্টেম (Darus Sunnah Academy)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
